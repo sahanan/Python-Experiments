@@ -1,8 +1,7 @@
 #Name: Sahana Rudrapatna Nataraja
 #Date: 01/14/2019
-#I have not given or received any unauthorized assistance on this assignment
 
-#Assignment 1: Compute the area of the overlap of the two squares
+#Compute the area of the overlap of the two squares
 
 #Funtion overlap
 #param1: list square1
@@ -17,7 +16,7 @@ def overlap(square1, square2):
     else:
         return int(l*b) # area = length * breadth
 
-#Checing and printing output
+#Checking and printing output
 totalScore = 0
 
 S1 = [1,5,3]
